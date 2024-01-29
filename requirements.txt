@@ -2,7 +2,7 @@ git+https://github.com/igorcmoura/anitopy.git@1a151905087c99e60bc6915fcd86c2e7fd
 apscheduler==3.10.4
 argon2-cffi==23.1.0
 aiofiles==23.2.1
-aiohttp==3.8.5
+aiohttp==3.9.2
 bencodepy==0.9.5
 distro==1.8.0
 feedparser==6.0.10
